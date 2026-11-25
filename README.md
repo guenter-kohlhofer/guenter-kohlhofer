@@ -1,7 +1,7 @@
 ### Hallo, ich bin Günter Kohlhofer 👋
 
 IT-Techniker aus Graz mit rund zehn Jahren Praxis in Endgeräte-Management und Werkstattbetrieb.
-Seit 2026 baue ich mit KI (vor allem Claude) Werkzeuge, die echte Arbeit abnehmen: Abläufe verstehen, genau spezifizieren, bauen lassen, prüfen und im Alltag betreiben.
+Seit mehreren Monaten baue ich mit KI (vor allem Claude) Werkzeuge, die echte Arbeit abnehmen: Abläufe verstehen, genau spezifizieren, bauen lassen, prüfen und im Alltag betreiben.
 
 **🗂️ Portfolio mit allen Projekten:** https://guenter-kohlhofer.github.io/portfolio/
 
